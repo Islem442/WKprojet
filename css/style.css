@@ -23,3 +23,10 @@
     font-weight: 500;
     margin: 20px 10px ;
 }
+.adam-sec{
+    font-size: 20px;
+    color: rgb(69, 245, 21);
+    margin: 5px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 6px black;
+}
